@@ -6,7 +6,7 @@ Trabajo práctico de dos partes para la materia Introducción a la Robótica Emp
 
 [Enunciado](docs/Enunciado.pdf)
 
-[Informe](docs/SantiagoReyes TAenIA TPFinal.pdf)
+[Informe](docs/SantiagoReyes%20TAenIA%20TPFinal.pdf)
 
 ### Requisitos
 
